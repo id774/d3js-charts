@@ -15,3 +15,7 @@ end
 get '/scatter-plot' do
   erb :scatter_plot
 end
+
+get '/pie' do
+  erb :pie
+end
