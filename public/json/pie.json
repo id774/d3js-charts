@@ -1,34 +1,34 @@
 [
   {
-    "label": "One",
+    "label": "回答 A",
     "value" : 29.765957771107
   } ,
   {
-    "label": "Two",
+    "label": "回答 B",
     "value" : 0
   } ,
   {
-    "label": "Three",
+    "label": "回答 C",
     "value" : 32.807804682612
   } ,
   {
-    "label": "Four",
+    "label": "回答 D",
     "value" : 196.45946739256
   } ,
   {
-    "label": "Five",
+    "label": "回答 E",
     "value" : 0.19434030906893
   } ,
   {
-    "label": "Six",
+    "label": "回答 F",
     "value" : 98.079782601442
   } ,
   {
-    "label": "Seven",
+    "label": "回答 G",
     "value" : 13.925743130903
   } ,
   {
-    "label": "Eight",
+    "label": "回答 H",
     "value" : 5.1387322875705
   }
 ]
