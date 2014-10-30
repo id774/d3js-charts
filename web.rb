@@ -19,3 +19,7 @@ end
 get '/pie' do
   erb :pie
 end
+
+get '/multi-bar-horizontal' do
+  erb :multi_bar_horizontal
+end
