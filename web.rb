@@ -23,3 +23,7 @@ end
 get '/multi-bar-horizontal' do
   erb :multi_bar_horizontal
 end
+
+get '/multi-bar' do
+  erb :multi_bar
+end
