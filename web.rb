@@ -27,3 +27,7 @@ end
 get '/multi-bar' do
   erb :multi_bar
 end
+
+get '/cumulative-line' do
+  erb :cumulative_line
+end
