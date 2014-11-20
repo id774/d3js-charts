@@ -31,3 +31,7 @@ end
 get '/cumulative-line' do
   erb :cumulative_line
 end
+
+get '/discrete-bar' do
+  erb :discrete_bar
+end
