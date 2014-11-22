@@ -1,37 +1,37 @@
 require 'sinatra'
 
 get '/' do
-  erb :index
+  haml :index
 end
 
 get '/stacked-area-chart' do
-  erb :stacked_area_chart
+  haml :stacked_area_chart
 end
 
 get '/data-clips' do
-  erb :data_clips
+  haml :data_clips
 end
 
 get '/scatter-plot' do
-  erb :scatter_plot
+  haml :scatter_plot
 end
 
 get '/pie' do
-  erb :pie
+  haml :pie
 end
 
 get '/multi-bar-horizontal' do
-  erb :multi_bar_horizontal
+  haml :multi_bar_horizontal
 end
 
 get '/multi-bar' do
-  erb :multi_bar
+  haml :multi_bar
 end
 
 get '/cumulative-line' do
-  erb :cumulative_line
+  haml :cumulative_line
 end
 
 get '/discrete-bar' do
-  erb :discrete_bar
+  haml :discrete_bar
 end
